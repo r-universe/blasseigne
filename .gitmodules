@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ProliferativeIndex"]
+	path = ProliferativeIndex
+	url = https://github.com/blasseigne/proliferativeindex
+	shallow = true
+	registered = true
